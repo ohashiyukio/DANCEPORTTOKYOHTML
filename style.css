@@ -10,7 +10,7 @@ h1,h2,h3,h4,h5,h6,p {
   margin: 0;
 }
 
-.size {
+.size {  /* ダンスを楽しみたい全ての皆様へ */
   font-size: 14px;
   color: blue;
 }
@@ -56,11 +56,10 @@ li {
   height: 60vh;
 }
 
-.top-image{
+.top-image{ /*ロゴ*/
   height:100%;
-  width: 70px;
-  display:flex;
-}
+  width: 100%;
+} 
 
 /* 新着情報 */
 .upper-content{
