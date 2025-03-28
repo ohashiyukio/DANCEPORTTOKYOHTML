@@ -62,8 +62,8 @@ li {
   object-fit: contain;
 } 
 
-/* 新着情報 */
-.upper-content{
+/* INFORMATION */
+.upper-content {
   height: 450px;
   margin: 0 160px;
 }
@@ -90,26 +90,22 @@ li {
   padding-right: 40px;
 }
 
-/* スタイリスト紹介 */
-.middle-content{
-  height: 450px;
-  margin: 0 160px; 
+/* インストラクター履歴 */
+.histories {
+  width: 50vw;
+  margin: 0 auto;
 }
 
-.stylist-list{
+.history {
   display: flex;
-  justify-content: space-around;
-  margin: 60px;
+  font-size: 18px;
+  margin: 0 0 16px 70px;
 }
 
-.stylist-image{
-  height: 300px;
+.history-date {
+  padding-right: 40px;
 }
 
-.stylist-name{
-  font-size: 16px;
-  text-align: center;
-}
 /* フォーム */
 .bottom-content {
   height: 800px;
