@@ -59,6 +59,7 @@ li {
 .top-image{ /*ロゴ*/
   height:100%;
   width: 100%;
+  object-fit: contain;
 } 
 
 /* 新着情報 */
